@@ -1,4 +1,4 @@
-**iReflect** is a web aplication to provide support for continuous performance feedback and retrospective analysis of team/s. It aims to build an extensible system that can provide integration with various development tools for pulling data required for feedback & retrospective analysis.
+**iReflect** is a web aplication that enables continuous performance feedback and retrospective analysis for teams. It aims to build an extensible system that can provide integration with various development tools for pulling data required for feedback & retrospective analysis.
 
 ### [](#components)Components
 ***
