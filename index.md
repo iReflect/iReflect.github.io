@@ -1,5 +1,4 @@
-**iReflect** is an attempt to develop an open-source web-application to facilitate smooth feedback and retrospective 
-analysis of a team.
+**iReflect** is a web aplication to provide support for continuous performance feedback and retrospective analysis of team/s. It aims to build an extensible system that can provide integration with various development tools for pulling data required for feedback & retrospective analysis.
 
 ### [](#components)Components
 ***
