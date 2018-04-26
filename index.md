@@ -5,16 +5,18 @@
 
 - #### For the Team
    - Track team’s performance not alone on basis of quantitative factors, but should include the qualitative performance required for the overall growth of the product, team and its members.
-   - Define practical development and improvement goals and track growth against the various metrics defined
+   - Define practical development and improvement goals and track growth against the various metrics defined.
+
 - #### For the User
-   - Provide an insightful analysis of user’s performance
+   - Provide an insightful analysis of user’s performance.
    - Track Feedback and Goals against user actions and performance to provide a 360 degree feedback.
+
 - #### For Continuous Feedback and Reporting
-   - Provide transparent feedback
+   - Provide transparent feedback.
    - Provide continuous and early feedback.
    - Exhaustive feedback backed by various data points.
    - Easy to follow process which does not take up a lot of time.
-   - Periodic reporting of growth of team/individual over periods
+   - Periodic reporting of growth of team/individual over periods.
 
 
 ### [](#steps)Three Step Plan
@@ -33,8 +35,8 @@ We started development with a 3 step plan:
 
 - Automated and simplified the retrospective process.
 - Allow team members to set and track goals and highlights for an individual or the team itself.
-- Support to get data from JIRA and Google sheets along with skeleton support to link more tools to the system, which could include Pivotal Tracker, Toggl etc
-- Classification and collection of data in a form which could be processed further in later stages to generate useful insights
+- Support to get data from JIRA and Google sheets along with skeleton support to link more tools to the system, which could include Pivotal Tracker, Toggl etc.
+- Classification and collection of data in a form which could be processed further in later stages to generate useful insights.
 
 
 ### [](#next)What is Next?
@@ -56,10 +58,10 @@ We started development with a 3 step plan:
 ***
 
 1. #### [Reflect App](https://github.com/iReflect/reflect-app)
-   API backend services implemented in [Gin framework](https://github.com/gin-gonic/gin)    
+   API backend services implemented in [Golang](https://golang.org/) ([Gin framework](https://github.com/gin-gonic/gin)).
 
 2. #### [Reflect Web](https://github.com/iReflect/reflect-web)
-   Frontend web application implemented in [Angular](https://angular.io/)
+   Frontend web application implemented in [Angular](https://angular.io/).
 
     
 ### [](#screenshots)Screenshots
@@ -78,11 +80,11 @@ We started development with a 3 step plan:
 <dd><hr/></dd>
 <dd><img src="assets/sprint_issues.png"/></dd>
 <dd><hr/></dd>
+<dd><img src="assets/retrospect.png"/></dd><dd><img src="assets/sprint_members.png"/></dd>
+<dd><hr/></dd>
 <dd><img src="assets/sprint_members.png"/></dd>
 <dd><hr/></dd>
 <dd><img src="assets/sprint_notes.png"/></dd>
-<dd><hr/></dd>
-<dd><img src="assets/retrospect.png"/></dd>
 </dl>
 
 #### Feedback
