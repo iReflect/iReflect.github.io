@@ -80,7 +80,7 @@ We started development with a 3 step plan:
 <dd><hr/></dd>
 <dd><img src="assets/sprint_issues.png"/></dd>
 <dd><hr/></dd>
-<dd><img src="assets/retrospect.png"/></dd><dd><img src="assets/sprint_members.png"/></dd>
+<dd><img src="assets/retrospect.png"/></dd>
 <dd><hr/></dd>
 <dd><img src="assets/sprint_members.png"/></dd>
 <dd><hr/></dd>
